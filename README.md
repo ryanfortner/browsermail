@@ -4,8 +4,9 @@ At the moment this is just a proof-of-concept project to show that an IMAP email
 
 This only fetches the latest messages for your inbox and shows them. Email body text is not yet parsed. Another limitation is that only SSL/TLS connections are supported.
 
-
 ## Running it
+
+- You can access this application live at: [https://ryanfortner.github.io/browsermail/live](https://ryanfortner.github.io/browsermail/live)
 
 1. Download and unzip [release/browsermail.zip](https://raw.github.com/hiddentao/browsermail/master/release/browsermail.zip).
 2. Load the output folder into [chrome://extensions](chrome://extensions) as an unpacked extension.
